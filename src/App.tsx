@@ -336,7 +336,7 @@ const App: React.FC = () => {
             </div>
           </div>
           <div className="mt-8 text-center">
-            <p>&copy; {new Date().getFullYear()} Yara InfoTech. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()}</p>
           </div>
         </div>
       </footer>
